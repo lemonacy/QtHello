@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="changge">images/changge.png</file>
+        <file alias="icon">images/icon.png</file>
+    </qresource>
+</RCC>
